@@ -23,7 +23,7 @@ int main() {
     double tooHigh = 1.8;
     double tooLow = -2.5;
     double justRight = 0.4;
-    //test
+
     // TODO 3: Print the result of calling clampMotorPower on all three
     //         values above.
     std::cout<<clampMotorPower(tooHigh)<<std::endl;
