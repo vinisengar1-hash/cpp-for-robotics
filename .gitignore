@@ -1,0 +1,3 @@
+# Compiled programs - these get rebuilt from the .cpp files, so don't save them
+*.exe
+*.o
